@@ -189,6 +189,3 @@ nohup.out
 *.png
 
 scraper_cache/
-
-# Elke's local notebooks
-*/elke_local
